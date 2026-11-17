@@ -1,6 +1,6 @@
 ---
 name: Pull request
-about: Create a pull request to contribute in making Pock amazing!
+about: Create a pull request to contribute in making Sway amazing!
 title: ''
 labels: ''
 assignees: ''

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Something that Pock should do, but it tragically fails in doing it
+about: Report a reproducible problem in Sway Touch Bar
 title: ''
 labels: 'bug'
 assignees: ''
@@ -30,13 +30,15 @@ If applicable, add screenshots to help explain your problem.
 If applicable, add crashlog to help me investigate your problem.
 ``` 
 1. Open the Console application located at "Application -> Utilities -> Console.app."
-2. Click on "User Reports" in the left menu, then locate the latest Pock crash report. (You can filter reports by typging "pock" into the searchbar on the top)
-3. "ctrl + click" on the latest Pock crash report and click on "Reveal in Finder" option, then attach the .crash file in this issue.
+2. Click on "User Reports" in the left menu, then locate the latest Sway crash report. (You can filter reports by typing "sway" into the searchbar on the top)
+3. "ctrl + click" on the latest Sway crash report and click on "Reveal in Finder" option, then attach the .crash file in this issue.
 ```
 
 **Versions:**
- - macOS version: [e.g. 10.14.5 (*required)]
- - Pock version:  [e.g. 0.5.2   (*required)]
+ - Mac model and chip: [e.g. MacBook Pro, Apple M1 (*required)]
+ - Xcode version: [if building from source]
+ - macOS version: [e.g. 26.6.2 (*required)]
+ - Sway version:  [e.g. 0.1.0 alpha (*required)]
 
 **Additional context**
 Add any other context about the problem here.

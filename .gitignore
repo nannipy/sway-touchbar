@@ -13,3 +13,16 @@ Pock.xcworkspace/contents.xcworkspacedata
 
 ## Hide Secrets
 Secrets.plist
+
+# Sway local build output
+/build/
+
+# Local credentials, signing material and editor state
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.pem
+*.mobileprovision
+*.xcuserstate

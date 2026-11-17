@@ -1,13 +1,13 @@
 ---
 name: Feature request
-about: Something that Pock should learn to do
+about: Something that Sway should learn to do
 title: ''
 labels: 'request'
 assignees: ''
 
 ---
 
-**Describe the feature you'd like to have in Pock**
+**Describe the feature you'd like to have in Sway**
 A clear description of what you want to happen.
 
 **Describe alternatives you've considered**

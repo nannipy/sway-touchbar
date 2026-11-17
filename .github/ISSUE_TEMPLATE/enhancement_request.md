@@ -1,13 +1,13 @@
 ---
 name: Enhancement request
-about: Something that Pock can do, but it could do it better
+about: Something that Sway can do, but it could do it better
 title: ''
 labels: 'enhancement'
 assignees: ''
 
 ---
 
-**Describe the feature you'd like to improve in Pock**
+**Describe the feature you'd like to improve in Sway**
 A clear description of what you want to happen.
 
 **Describe alternatives you've considered**
